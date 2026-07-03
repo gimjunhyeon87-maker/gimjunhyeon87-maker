@@ -36,14 +36,15 @@
 
 ## Skills
 
-| 분야 | 내용 |
+| 분야 | 기술 |
 |---|---|
-| 프로그래밍 | Python (pandas, Selenium), Google Apps Script |
-| AI / ML | Gemini API, 머신러닝 (Random Forest, SVM), Kaggle 재무 모델링 |
-| 데이터 분석 | SQL, 재무 데이터 이상징후 탐지 모델 구현 |
-
----
+| 언어 | Python |
+| 플랫폼 | Google Apps Script |
+| 라이브러리 | pandas, NumPy, Selenium, openpyxl |
+| AI / ML | Random Forest, SVM, 유전 알고리즘 기반 최적화 |
+| 정량 분석 | 몬테카를로 시뮬레이션, 이항트리 옵션가치평가 |
+| API 연동 | Gemini API, Naver News API, ScraperAPI |
 
 ## Certifications
 
-재무빅데이터분석사 &nbsp;·&nbsp; SQLD &nbsp;·&nbsp; ADSP &nbsp;·&nbsp; AICE Associate
+한국공인회계사(KICPA) &nbsp;·&nbsp; 재무빅데이터분석사 1 &nbsp;·&nbsp; SQLD &nbsp;·&nbsp; ADSP &nbsp;·&nbsp; AICE Associate
