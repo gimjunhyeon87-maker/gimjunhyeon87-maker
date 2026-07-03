@@ -30,7 +30,7 @@
 - Gemini API로 AI 요약 후 이메일 자동 발송
 - 팀원 대상 교육 진행 및 실무 적용
 
-**기술:** Google Apps Script · Gemini API · Naver News API
+**기술:** Gemini API · Naver News API
 
 ---
 
