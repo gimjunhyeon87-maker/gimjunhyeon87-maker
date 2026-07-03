@@ -47,4 +47,4 @@
 
 ## Certifications
 
-한국공인회계사(KICPA) &nbsp;·&nbsp; 재무빅데이터분석사 1 &nbsp;·&nbsp; SQLD &nbsp;·&nbsp; ADSP &nbsp;·&nbsp; AICE Associate
+한국공인회계사(KICPA) &nbsp;·&nbsp; 재무빅데이터분석사 1급 &nbsp;·&nbsp; SQLD &nbsp;·&nbsp; ADSP &nbsp;·&nbsp; AICE Associate
