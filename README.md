@@ -34,6 +34,19 @@
 
 ---
 
+### 3. 계정과목 자동 표준화 도구
+**[account-standardizer](https://github.com/gimjunhyeon87-maker/account-standardizer)**
+
+감사 실무에서 회사마다 제각각인 계정과목 표기를 표준 체계로 통일하는 전처리 작업을 자동화했습니다.
+
+- 문자열 유사도 기반 baseline(90.7%)과 생성형 AI(Claude API) 기반 의미 매핑을 정량적으로 비교
+- 이름은 비슷하지만 회계적으로 다른 개념, 표준 목록에 아예 없는 항목을 섞은 함정 케이스로 검증 강도를 높임
+- 1차 검증 95.3% → 오답 원인을 "판단 지침 문제"와 "기준 데이터 정의 문제"로 진단해 수정 → 2차 검증 100%
+
+**기술:** Python · Claude API · difflib
+
+---
+
 ## Skills
 
 | 분야 | 기술 |
@@ -43,7 +56,7 @@
 | 라이브러리 | pandas, NumPy, Selenium, openpyxl |
 | AI / ML | Random Forest, SVM, 유전 알고리즘 기반 최적화 |
 | 정량 분석 | 몬테카를로 시뮬레이션, 이항트리 옵션가치평가 |
-| API 연동 | Gemini API, Naver News API, ScraperAPI |
+| API 연동 | Gemini API, Claude API, Naver News API, ScraperAPI |
 
 ## Certifications
 
