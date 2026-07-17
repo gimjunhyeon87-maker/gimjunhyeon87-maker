@@ -69,8 +69,8 @@
 
 | 분야 | 기술 |
 |---|---|
-| AI / ML | Random Forest, SVM, 유전 알고리즘 기반 최적화 (AICE Associate) |
-| 정량 분석 | 몬테카를로 시뮬레이션, 이항트리 옵션가치평가 (재무빅데이터분석사 1급) |
+| AI / ML | Random Forest, SVM,  (AICE Associate) |
+| 정량 분석 | 유전 알고리즘 기반 최적화, 몬테카를로 시뮬레이션, 이항트리 옵션가치평가 (재무빅데이터분석사 1급) |
 
 ## Certifications
 
